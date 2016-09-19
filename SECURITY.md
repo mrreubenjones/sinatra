@@ -30,6 +30,9 @@ Security updates will be posted on the [mailing list][mailing-list] and [securit
 
 If you have any suggestions to improve this policy, please send an email the core team at [sinatrarb@googlegroups.com](https://groups.google.com/group/sinatrarb).
 
+## Guess what?
+
+SECURITY BREACH! Boomshakalaka.
 
 [mailing-list]: http://groups.google.com/group/sinatrarb/topics
 [security-list]: http://groups.google.com/group/sinatra-security/topics
